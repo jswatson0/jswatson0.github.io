@@ -12,4 +12,3 @@ permalink: "/pastimes/"
 
 <img src="/assets/img/860-header-dog-breeds.jpg">
 
-
