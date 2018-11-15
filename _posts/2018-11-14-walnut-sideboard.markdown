@@ -5,11 +5,24 @@ date:   2018-01-31 12:46:56 -0600
 categories: custom-furniture
 ---
 
-Handmade walnut media console.  
+Handmade walnut sideboard.  Works well as a media console placed under a wall mounted T.V. <br>
+Clean design and beautiful walnut grain complimented by hand rubbed finish and attention to detail. 
 
-//<div class="zoom">
-![Walnut Media Console](/assets/img/crez2.jpeg)
-//</div>
+Please contact for pricing and inquiries.
+
+Thank you,<br>
+Jason Watson<br>
+<a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+
+
+![Walnut Media Console](/assets/img/front-low.jpg)
+
+![Walnut Media Console](/assets/img/side-close.jpg)
+
+![Walnut Media Console](/assets/img/doors-together.jpg)
+
+
+
 
 <h2>Features</h2>
 *   Center drawer
