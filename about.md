@@ -1,8 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: page
+title: About
+permalink: "/about"
 ---
 
-About
+I design and build furniture at my home shop in Austin, Texas.  The work I do reflects my preference for simplicity, utility and drawing attention to the natural beauty of wood.   
+
+![Shop Dog](/assets/img/dog-close.jpg) 

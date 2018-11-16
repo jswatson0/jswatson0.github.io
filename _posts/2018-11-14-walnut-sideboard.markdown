@@ -6,7 +6,7 @@ categories: custom-furniture
 ---
 
 Handmade walnut sideboard.  Works well as a media console placed under a wall mounted T.V. <br>
-Clean design and beautiful walnut grain complimented by hand rubbed finish and attention to detail. 
+Clean design and beautiful walnut grain complemented by a hand rubbed finish and attention to detail. 
 
 Please contact for pricing and inquiries.
 
@@ -19,7 +19,7 @@ Jason Watson<br>
 
 ![Walnut Media Console](/assets/img/side-close.jpg)
 
-![Walnut Media Console](/assets/img/doors-together.jpg)
+![Walnut Media Console](/assets/img/doors-together.png)
 
 
 
