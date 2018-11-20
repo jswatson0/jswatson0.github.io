@@ -18,7 +18,7 @@ email: jswatson0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Designed and Built by hand in Austin, Texas
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jasonwatsonproject.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "watsoncustomfurniture.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 instagram_username: jswatson1
