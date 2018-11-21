@@ -16,12 +16,11 @@ Thank you,<br>
 Jason Watson<br>
 <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
 
+[![Walnut Media Console](/assets/img/front-low.jpg)]({{ site.url }}/assets/img/front-low.jpg) 
 
-![Walnut Media Console](/assets/img/front-low.jpg)
+[![Walnut Media Console](/assets/img/side-close.jpg)]({{ site.url }}/assets/img/side-close.jpg)
 
-![Walnut Media Console](/assets/img/side-close.jpg)
-
-![Walnut Media Console](/assets/img/doors-together.png)
+[![Walnut Media Console](/assets/img/doors-together.png)]({{ site.url }}/assets/img/doors-together.png)
 
 
 
