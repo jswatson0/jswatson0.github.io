@@ -5,8 +5,11 @@ date:   2018-01-31 12:46:56 -0600
 categories: custom-furniture
 ---
 
-Handmade walnut sideboard.  Works well as a media console placed under a wall mounted T.V. <br>
-Clean design and beautiful walnut grain complemented by a hand rubbed finish and attention to detail. 
+Handmade Mid-Century walnut console with angled and tapered legs. Solid piece that is built last. Fitted with box-jointed
+center drawer and three, three-way adjustable shelves. Sliding doors move along a solid walnut track.
+
+Plenty of room to use as a record cabinet, bookshelf, or to store large items like blankets. 
+
 
 ![For Sale](/assets/img/for-sale.jpg)
 
@@ -28,11 +31,11 @@ Jason Watson<br>
 <h2>Features</h2>
 *   Center drawer
 *	Waterfall edges (continuous grain from top to sides)
-*	3 way adjustable shelves (x3)
+*	3-way adjustable shelves (x3)
 *	Sliding doors
 *	Brass door pulls
 *	Solid walnut edging 
-*   Cable access holes in back <em>(optional)</em>
+*   Cable access holes in the back <em>(optional)</em>
 
 <h2>Materials</h2>
 *	Walnut veneer
