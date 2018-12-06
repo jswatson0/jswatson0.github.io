@@ -36,6 +36,7 @@ Jason Watson<br>
 *	Brass door pulls
 *	Solid walnut edging 
 *   Cable access holes in the back <em>(optional)</em>
+*   Durable and long lasting polyurethane varnish 
 
 <h2>Materials</h2>
 *	Walnut veneer
